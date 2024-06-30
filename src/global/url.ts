@@ -1,0 +1,1 @@
+export const DataDosenURL = 'https://fatek.pelitabangsa.ac.id/data-dosen/';

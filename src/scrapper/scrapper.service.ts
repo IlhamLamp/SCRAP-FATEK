@@ -1,15 +1,15 @@
 import { Injectable } from '@nestjs/common';
+import { PaginationScrapperDTO } from './dto/scrapperDto';
 import { BrowserService } from 'src/browser/browser.service';
 import { DataDosenURL } from 'src/global/url';
-import { PaginationDosenDTO } from './dto/dataDosen.dto';
-import { extractRowsData, extractTableData, extractTotalEntries } from 'src/helper/page';
+import { extractRowsData, extractTableData, extractTotalEntries } from 'src/helper/scrapperHelper';
 
 @Injectable()
-export class DataDosenService {
+export class ScrapperService {
     
     constructor(private readonly browserService: BrowserService) {}
 
-    async getDataDosen(query: PaginationDosenDTO): Promise<PaginationDosenDTO> {
+    async getDataDosen(query: PaginationScrapperDTO): Promise<PaginationScrapperDTO> {
         const browser = this.browserService.getBrowser();
         const page = await browser.newPage();
         try {

@@ -1,6 +1,6 @@
 import { TDataDosen } from "src/types/types";
 
-export class PaginationDosenDTO {
+export class PaginationScrapperDTO {
     page: number;
     per_page: number;
     total: number;

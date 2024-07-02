@@ -90,7 +90,7 @@ GET /api/v1/auth/generate-token
 - **Request**
 GET /api/v1/dosen
 
-**Successful Response:**
+**Unauthorized Response:**
 
 ```json
 {

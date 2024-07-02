@@ -9,7 +9,7 @@ export class Dosen {
     nama: string;
 
     @Column()
-    nidn: number;
+    nidn: string;
 
     @Column()
     prodi: string;

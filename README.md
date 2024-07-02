@@ -1,73 +1,100 @@
-<p align="center">
-  <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
-</p>
+# FATEK API RESPONSE
 
-[circleci-image]: https://img.shields.io/circleci/build/github/nestjs/nest/master?token=abc123def456
-[circleci-url]: https://circleci.com/gh/nestjs/nest
+## Endpoint: `/api/v1`
 
-  <p align="center">A progressive <a href="http://nodejs.org" target="_blank">Node.js</a> framework for building efficient and scalable server-side applications.</p>
-    <p align="center">
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/v/@nestjs/core.svg" alt="NPM Version" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/l/@nestjs/core.svg" alt="Package License" /></a>
-<a href="https://www.npmjs.com/~nestjscore" target="_blank"><img src="https://img.shields.io/npm/dm/@nestjs/common.svg" alt="NPM Downloads" /></a>
-<a href="https://circleci.com/gh/nestjs/nest" target="_blank"><img src="https://img.shields.io/circleci/build/github/nestjs/nest/master" alt="CircleCI" /></a>
-<a href="https://coveralls.io/github/nestjs/nest?branch=master" target="_blank"><img src="https://coveralls.io/repos/github/nestjs/nest/badge.svg?branch=master#9" alt="Coverage" /></a>
-<a href="https://discord.gg/G7Qnnhy" target="_blank"><img src="https://img.shields.io/badge/discord-online-brightgreen.svg" alt="Discord"/></a>
-<a href="https://opencollective.com/nest#backer" target="_blank"><img src="https://opencollective.com/nest/backers/badge.svg" alt="Backers on Open Collective" /></a>
-<a href="https://opencollective.com/nest#sponsor" target="_blank"><img src="https://opencollective.com/nest/sponsors/badge.svg" alt="Sponsors on Open Collective" /></a>
-  <a href="https://paypal.me/kamilmysliwiec" target="_blank"><img src="https://img.shields.io/badge/Donate-PayPal-ff3f59.svg"/></a>
-    <a href="https://opencollective.com/nest#sponsor"  target="_blank"><img src="https://img.shields.io/badge/Support%20us-Open%20Collective-41B883.svg" alt="Support us"></a>
-  <a href="https://twitter.com/nestframework" target="_blank"><img src="https://img.shields.io/twitter/follow/nestframework.svg?style=social&label=Follow"></a>
-</p>
-  <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
-  [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
+## Method: `GET`
 
-## Description
+Returns data based on the request parameters.
 
-[Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
+## Dosen
 
-## Installation
+**Get All Dosen**
+- **Request**
+GET /api/v1/dosen
 
-```bash
-$ npm install
+**Successful Response:**
+
+```json
+{
+  "status": 200,
+  "message": "ok",
+  "data": [
+    {
+        "id": 1,
+        "nama": "Adibah Yahya, S.E.,M.M.,Ak",
+        "nidn": "0414068102",
+        "prodi": "AKUNTANSI"
+    },
+    {
+      "id": 2,
+      "nama": "Agus Fuadi, S.E.,M.Ak.",
+      "nidn": "0413127302",
+      "prodi": "AKUNTANSI"
+    },
+  ],
+  "total": 2
+}
 ```
 
-## Running the app
+> ### Tips
+> 
+> *you can search or filter dosen*
+>  
+> - ###### GET /api/v1/dosen?search=jhon
+> 
+> this parameter will search dosen by nama or nidn or prodi.
+>
+> - ###### GET /api/v1/dosen?filter=akuntansi,hukum
+> 
+> this parameter will filter dosen by prodi, you can add more than one.
+> 
 
-```bash
-# development
-$ npm run start
+**Get Dosen By Id**
+- **Request**
+GET /api/v1/dosen/:id
 
-# watch mode
-$ npm run start:dev
+**Successful Response:**
 
-# production mode
-$ npm run start:prod
+```json
+{
+  "status": 200,
+  "message": "ok",
+  "data": {
+    "id": 51,
+    "nama": "Dr. Sarwo Edy, S.Ag., M.M.",
+    "nidn": "02125097001",
+    "prodi": "EKONOMI SYARIAH"
+  },
+}
 ```
 
-## Test
+**Generate Token**
+- **Request**
+GET /api/v1/auth/generate-token
 
-```bash
-# unit tests
-$ npm run test
+**Successful Response:**
 
-# e2e tests
-$ npm run test:e2e
-
-# test coverage
-$ npm run test:cov
+```json
+{
+  "status": 200,
+  "message": "successfully generated",
+  "token": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InB1YmxpY1VzZXIiLCJpYXQiOjE3MTk5MTUzNjAsImV4cCI6MTcxOTkxODk2MH0.X_dj1Lwa7DLVMknP0CgblfzFIiMUFH_XXOQiSFv9gV4"
+}
 ```
+> ### Important
+> 
+> *token valid is 1 hour*
+> *you can't access all dosen route without bearer token*
 
-## Support
+**Unauthorized**
+- **Request**
+GET /api/v1/dosen
 
-Nest is an MIT-licensed open source project. It can grow thanks to the sponsors and support by the amazing backers. If you'd like to join them, please [read more here](https://docs.nestjs.com/support).
+**Successful Response:**
 
-## Stay in touch
-
-- Author - [Kamil Myśliwiec](https://kamilmysliwiec.com)
-- Website - [https://nestjs.com](https://nestjs.com/)
-- Twitter - [@nestframework](https://twitter.com/nestframework)
-
-## License
-
-Nest is [MIT licensed](LICENSE).
+```json
+{
+    "message": "Unauthorized",
+    "statusCode": 401
+}
+```

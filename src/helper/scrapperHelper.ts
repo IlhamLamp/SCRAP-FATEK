@@ -1,6 +1,4 @@
 import { Page } from "puppeteer";
-import { TDataDosen } from "src/types/types";
-
 export async function extractTotalEntries(page: Page): Promise<number> {
     await page.waitForSelector('#tablepress-13_info');
   
@@ -15,7 +13,7 @@ export async function extractTotalEntries(page: Page): Promise<number> {
     return totalEntries;
 }
 
-export async function extractTableData(page: Page): Promise<TDataDosen[]> {   
+export async function extractTableData(page: Page): Promise<any[]> {   
     const rows = await page.evaluate(() => {
         return Array.from(document.querySelectorAll('#tablepress-13 tbody tr'))
         .map(row => {

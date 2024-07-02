@@ -1,0 +1,1994 @@
+[
+  {
+    "id": 1,
+    "nama": "Adibah Yahya, S.E.,M.M.,Ak",
+    "nidn": "0414068102",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 2,
+    "nama": "Agus Fuadi, S.E.,M.Ak.",
+    "nidn": "0413127302",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 3,
+    "nama": "Ahmad Bukhori Muslim, S.Pd,M.Ak.",
+    "nidn": "0402118804",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 4,
+    "nama": "Amelia Yunarwati, S.E.,M.M.",
+    "nidn": "0418067603",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 5,
+    "nama": "Benny Oktaviano, S.E.,M.Ak.",
+    "nidn": "0423108404",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 6,
+    "nama": "Dian Sulistyorini Wulandari, S.E., M.Si,Ak",
+    "nidn": "0401048501",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 7,
+    "nama": "Edi Triwibowo, S.E.,M.M",
+    "nidn": "0417047702",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 8,
+    "nama": "Ela Fauziah, S.E., M.Ak",
+    "nidn": "0007108007",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 9,
+    "nama": "Erlina Widayanti, S.E.,M.Ak.",
+    "nidn": "0428037408",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 10,
+    "nama": "Erna Yekti Anggraeni, S.E.,M.M",
+    "nidn": "0407027107",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 11,
+    "nama": "Fikko Bangun Primanda, S.E.,M.M",
+    "nidn": "0409058201",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 12,
+    "nama": "Jamian Purba, S.E.,M.Ak.",
+    "nidn": "0426056601",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 13,
+    "nama": "Maulina Diyah Permatasari, S.E.,M.Ak.",
+    "nidn": "0414118605",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 14,
+    "nama": "Neng Asiah, S.E.,M.M.",
+    "nidn": "0420067704",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 15,
+    "nama": "Sindik Widati, S.E.,M.Si",
+    "nidn": "0316057902",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 16,
+    "nama": "Sri Mardiyati, S.Sos,M.M.",
+    "nidn": "0431106001",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 17,
+    "nama": "Taufik Hidayat, M.Si,S.E",
+    "nidn": "0426046102",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 18,
+    "nama": "Tirin Wulandari, S.E.,M.Si",
+    "nidn": "0410067610",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 19,
+    "nama": "Vista Yulianti, S.E.,M.Ak.",
+    "nidn": "0409077507",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 20,
+    "nama": "Widiastuti, S.Kom,M.Ak.",
+    "nidn": "0421098803",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 21,
+    "nama": "Wira Syuhada, S.E.,M.M.",
+    "nidn": "0426077802",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 22,
+    "nama": "Wisnu Setyawan, S.E.,M.M",
+    "nidn": "0417128001",
+    "prodi": "AKUNTANSI"
+  },
+  {
+    "id": 23,
+    "nama": "Adrianus Firmando Sihotang, S.Pd,M.T",
+    "nidn": "0424028601",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 24,
+    "nama": "Ahmad Aguswin, S.T,M.M.",
+    "nidn": "0408087306",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 25,
+    "nama": "Akhmad Akromusyuhada, S.T,M.Pd",
+    "nidn": "0427057408",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 26,
+    "nama": "ASRI MARIZA OKTAVIA",
+    "nidn": "0422109105",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 27,
+    "nama": "Dian Dianti Avoressi, S.T,M.Arch",
+    "nidn": "0425049401",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 28,
+    "nama": "Emmi Rostika Dewi, M.Si,S.Pt",
+    "nidn": "0411017802",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 29,
+    "nama": "Galih Andika Permana, S.Pd,M.M",
+    "nidn": "0429058505",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 30,
+    "nama": "Harry Miarsono, Ir.,M.Arch.,Ph.D",
+    "nidn": "0301056002",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 31,
+    "nama": "Pawitra Sari, S.T., M.Si, S.T,S.T",
+    "nidn": "0429118904",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 32,
+    "nama": "Purnama Sakhrial Pradini, S.T,M.T",
+    "nidn": "0403078303",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 33,
+    "nama": "Retno Fitri Astuti, S.T,M.T",
+    "nidn": "0413097702",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 34,
+    "nama": "SUTRISNO AJI PRASETYO, S.Ars., M.Ars",
+    "nidn": "0430039302",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 35,
+    "nama": "Tigor David Manalu, S.T,M.M.",
+    "nidn": "0419097003",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 36,
+    "nama": "Windi, S.Pd,M.M.",
+    "nidn": "0428028504",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 37,
+    "nama": "Yusdianto Haryo Soeroso, S.T,M.T",
+    "nidn": "0414068706",
+    "prodi": "ARSITEKTUR"
+  },
+  {
+    "id": 38,
+    "nama": "Erna Apriani, M.M.,S.M",
+    "nidn": "0415049401",
+    "prodi": "BISNIS DIGITAL"
+  },
+  {
+    "id": 39,
+    "nama": "Fachrial Banyu Asmoro, S.E.,M.M.",
+    "nidn": "0413018804",
+    "prodi": "BISNIS DIGITAL"
+  },
+  {
+    "id": 40,
+    "nama": "Indra Permana, S.Sos,M.M",
+    "nidn": "0424027803",
+    "prodi": "BISNIS DIGITAL"
+  },
+  {
+    "id": 41,
+    "nama": "MARYATIN GUNADI",
+    "nidn": "0419056903",
+    "prodi": "Bisnis Digital"
+  },
+  {
+    "id": 42,
+    "nama": "Wiyarno",
+    "nidn": "0412077712",
+    "prodi": "BISNIS DIGITAL"
+  },
+  {
+    "id": 43,
+    "nama": "DJOKO NUGROHO, S.Psi,M.Psi",
+    "nidn": "0422048704",
+    "prodi": "BKPI"
+  },
+  {
+    "id": 44,
+    "nama": "MUHAMMAD CHOLID ABDURROHMAN, Lc., M.Pd.",
+    "nidn": "0419129103 ",
+    "prodi": "BKPI"
+  },
+  {
+    "id": 45,
+    "nama": "NENDA, M.Pd I,S.Pd.I",
+    "nidn": "0402078806",
+    "prodi": "BKPI"
+  },
+  {
+    "id": 46,
+    "nama": "RINI SETYOWATI, S.Pd,M.Pd",
+    "nidn": "0430048402",
+    "prodi": "BKPI"
+  },
+  {
+    "id": 47,
+    "nama": "SAIFUL MUKTIALI, S.Pd,M.Pd",
+    "nidn": "0413099303",
+    "prodi": "BKPI"
+  },
+  {
+    "id": 48,
+    "nama": "SITI JUARIAH, S.Psi,M.Pd",
+    "nidn": "0409098203",
+    "prodi": "BKPI"
+  },
+  {
+    "id": 49,
+    "nama": "ALI SALAM, M.Sc.",
+    "nidn": "0413126706",
+    "prodi": "EKONOMI SYARIAH"
+  },
+  {
+    "id": 50,
+    "nama": "Dr. Ir. Yudianto Achmad, M.M",
+    "nidn": "0422016801",
+    "prodi": "EKONOMI SYARIAH"
+  },
+  {
+    "id": 51,
+    "nama": "Dr. Sarwo Edy, S.Ag., M.M.",
+    "nidn": "02125097001",
+    "prodi": "EKONOMI SYARIAH"
+  },
+  {
+    "id": 52,
+    "nama": "H. Ali Nur Ahmad, B.Sc (Hons)., M.Sc.",
+    "nidn": "02118118601",
+    "prodi": "EKONOMI SYARIAH"
+  },
+  {
+    "id": 53,
+    "nama": "H. Kisanda Midisen, Lc., MA.Hk.",
+    "nidn": "02106027102",
+    "prodi": "EKONOMI SYARIAH"
+  },
+  {
+    "id": 54,
+    "nama": "H. Sukron Mamun, B.Sc., M.Sc.",
+    "nidn": "02131058601",
+    "prodi": "EKONOMI SYARIAH"
+  },
+  {
+    "id": 55,
+    "nama": "Listian Indriyani Achmad, S.Sos., M.M.",
+    "nidn": "02111057701",
+    "prodi": "EKONOMI SYARIAH"
+  },
+  {
+    "id": 56,
+    "nama": "Muhammad Hamdan Ainulyaqin, S.E.I., M.E.",
+    "nidn": "02119108702",
+    "prodi": "EKONOMI SYARIAH"
+  },
+  {
+    "id": 57,
+    "nama": "Sakum, S.E., M.M.",
+    "nidn": "02101047301",
+    "prodi": "EKONOMI SYARIAH"
+  },
+  {
+    "id": 58,
+    "nama": "Akbar Sayudi, S.H.,M.H",
+    "nidn": "0428059006",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 59,
+    "nama": "Arum Tarina, S.H.,Ll.M",
+    "nidn": "0426128503",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 60,
+    "nama": "Husein Manalu, S.H.,M.H",
+    "nidn": "0010096109",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 61,
+    "nama": "Muhammad Hendra Razak, S.H.,M.H",
+    "nidn": "0425029102",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 62,
+    "nama": "Muhammad Luthfi Radian, S.H., M.H.",
+    "nidn": "0401079601",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 63,
+    "nama": "Nining Yurista Prawitasari, S.H.,S.H.,M.H,M.H",
+    "nidn": "0409078904",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 64,
+    "nama": "Septiayu Restu Wulandari, S.H.,M.H",
+    "nidn": "0421099005",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 65,
+    "nama": "Sifa Mulya Nurani, S.Sy,M.H",
+    "nidn": "0429059501",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 66,
+    "nama": "Trias Saputra, S.H.,M.H",
+    "nidn": "0428099201",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 67,
+    "nama": "Wulan Windiarti, M.M,S.H",
+    "nidn": "0412038402",
+    "prodi": "HUKUM"
+  },
+  {
+    "id": 68,
+    "nama": "Fiqih Maria Rabiatul Hariroh, S.E.,M.M.",
+    "nidn": "0421039003",
+    "prodi": "KEWIRAUSAHAAN"
+  },
+  {
+    "id": 69,
+    "nama": "ILHAM MUHAMMAD MARDIPUTRA, S.Mn,M.M.",
+    "nidn": "0416119602",
+    "prodi": "KEWIRAUSAHAAN"
+  },
+  {
+    "id": 70,
+    "nama": "Muhammad Kosim, S.E.,M.M.",
+    "nidn": "0402059006",
+    "prodi": "KEWIRAUSAHAAN"
+  },
+  {
+    "id": 71,
+    "nama": "Prasetyo Harisandi, M.M.,S.M,S.M",
+    "nidn": "0409099104",
+    "prodi": "KEWIRAUSAHAAN"
+  },
+  {
+    "id": 72,
+    "nama": "Rina Nurjanah, S.E.,M.M.",
+    "nidn": "0416089103",
+    "prodi": "KEWIRAUSAHAAN"
+  },
+  {
+    "id": 73,
+    "nama": "Abdi Chaniago Putera, Drs,M.M",
+    "nidn": "0414126001",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 74,
+    "nama": "Abdul Latif, S.E., M.M.",
+    "nidn": "0429049302",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 75,
+    "nama": "Abdy Kurniawan Chairul, S.E.,M.M",
+    "nidn": "1003027101",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 76,
+    "nama": "Ade Imam Suhakim, S.E.,M.M.",
+    "nidn": "0413098903",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 77,
+    "nama": "Adi Maryadi, S.Pd,M.Si",
+    "nidn": "8913600020",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 78,
+    "nama": "Adrianna Syariefur Rakhmat, S.Sy., M.Si",
+    "nidn": "0401128801",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 79,
+    "nama": "Afif Mustafid Taftazani, S.Tp,M.Si",
+    "nidn": "0410068002",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 80,
+    "nama": "Agung Yanesa, M.M.,S.I.Kom",
+    "nidn": "0402049401",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 81,
+    "nama": "Agustini Tanjung, S.E.,M.M.,",
+    "nidn": "0417087108",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 82,
+    "nama": "Ahmad Gunawan, Lc,M.M",
+    "nidn": "0404038404",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 83,
+    "nama": "Andrianto Prasetya Nugroho, S.E,M.M.",
+    "nidn": "0424069301",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 84,
+    "nama": "Anisa Indah Paramita, S.Sos,M.M",
+    "nidn": "0414108503",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 85,
+    "nama": "Arief Teguh Nugraha, S.E.,M.M",
+    "nidn": "0430068306",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 86,
+    "nama": "ARMY CAHYA PUTRA RUSTAMAJI",
+    "nidn": "0409069102",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 87,
+    "nama": "Asral, S.E.,M.M.",
+    "nidn": "0417086706",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 88,
+    "nama": "Ayang Mulyana, M.Ak.",
+    "nidn": "0405067611",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 89,
+    "nama": "Basar M Hutauruk, S.T,M.M",
+    "nidn": "0403037203",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 90,
+    "nama": "Budi Mulya, S.Sos,M.M",
+    "nidn": "0424117603",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 91,
+    "nama": "Catur Sasi Kirono, S.S.,M.M.",
+    "nidn": "8903600020",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 92,
+    "nama": "CITRA ANITA TIKA PUTRI",
+    "nidn": "0413039601",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 93,
+    "nama": "Dadang Heri Kusumah, S.Ip,M.Si",
+    "nidn": "0429116401",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 94,
+    "nama": "Damar Galih Tresnaning, S.Sos,M.M",
+    "nidn": "0403028206",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 95,
+    "nama": "Daspar, S.E.,M.M.",
+    "nidn": "0412098901",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 96,
+    "nama": "Dayu Rifanto, S.H.,M.M.",
+    "nidn": "0415108107",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 97,
+    "nama": "Dian Rachmawati Afandi, S.Sos,M.M",
+    "nidn": "0406098104",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 98,
+    "nama": "Dr. Fitri Rezeki, S.Pd,M.Pd",
+    "nidn": "0605028303",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 99,
+    "nama": "Dr. Nuraeni, S.E.,M.Si",
+    "nidn": "0405127503",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 100,
+    "nama": "Dr. Preatmi Nurastuti, S.E.,M.M",
+    "nidn": "0404046508",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 101,
+    "nama": "Dr. Pupung Purnamasari, S.E., M.M.",
+    "nidn": "0409037205",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 102,
+    "nama": "Dr. Rahmat Hidayat, S.Pd., M.M",
+    "nidn": "0417018402",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 103,
+    "nama": "Dr. Sunita, A.Md.T., M.M",
+    "nidn": "0403087103",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 104,
+    "nama": "Dr. Suriyanti, S.E.,M.M.",
+    "nidn": "0412046503",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 105,
+    "nama": "Dr. Surya Bintarti, S.E.,M.M.",
+    "nidn": "0423107203",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 106,
+    "nama": "Drs. Imam Sucipto, M.M",
+    "nidn": "0405096403",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 107,
+    "nama": "DWI ASTUTI, S.E., M.M",
+    "nidn": "0428098509",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 108,
+    "nama": "Edy Saptono, S.H.,M.M",
+    "nidn": "0412118305",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 109,
+    "nama": "Elsye Fatmawati, S.E.,M.M",
+    "nidn": "0409097907",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 110,
+    "nama": "Emmelia Tan, S.E.,M.B.A",
+    "nidn": "0405068202",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 111,
+    "nama": "Erdi, S.Pd,M.M",
+    "nidn": "0418016402",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 112,
+    "nama": "Erin Soleha, M.M,S.E",
+    "nidn": "0427129402",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 113,
+    "nama": "Erina Rulianti, S.Ip,M.M.",
+    "nidn": "0418066803",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 114,
+    "nama": "Etty Zuliawati Zed, S.E.,M.M.",
+    "nidn": "0416077402",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 115,
+    "nama": "Fathurohman, S.T,M.M",
+    "nidn": "0417057611",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 116,
+    "nama": "Fendy Manunggal Widiatma, S.E.,M.M",
+    "nidn": "0426037603",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 117,
+    "nama": "Fifi Hanafia, S.E.,M.M",
+    "nidn": "0418127703",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 118,
+    "nama": "Giri Nurpribadi, S.Tp,M.M.",
+    "nidn": "0413086804",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 119,
+    "nama": "Halipi Hazizan, S.Pt,S.Pt,M.M.,M.M",
+    "nidn": "8918310021",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 120,
+    "nama": "Hamdan Amaruddin, S.E.,M.E",
+    "nidn": "0417107101",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 121,
+    "nama": "Hamzah Muhammad Mardi Putra, S.K.M., M.M., D.B.A",
+    "nidn": "0424109102",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 122,
+    "nama": "Hilman Maulana, S.E.,M.M",
+    "nidn": "0421068503",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 123,
+    "nama": "Hy.Tutik Nularsih, S.E.,M.M",
+    "nidn": "0412028002",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 124,
+    "nama": "Ida Abdul Gopar, S.Ag,M.M.",
+    "nidn": "0413127005",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 125,
+    "nama": "Indra Setiawan, S.T,M.M",
+    "nidn": "0408058204",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 126,
+    "nama": "Inna Nisawati Mardiani Sadeli, S.E.,M.M.",
+    "nidn": "0418057204",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 127,
+    "nama": "Ir. Kurbandi Satpatmantyo B.R, M.M., D.B.A.",
+    "nidn": "0406046703",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 128,
+    "nama": "Ir. Mardiyana, M.M., Ph.D.",
+    "nidn": "0402086602",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 129,
+    "nama": "Ismamudi, S.E., M.M",
+    "nidn": "0421099502",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 130,
+    "nama": "Istanto Nugroho, S.T,M.M.",
+    "nidn": "0417097403",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 131,
+    "nama": "Jizenji Tyas Wirastomo, S.Sos,M.M.",
+    "nidn": "0417107804",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 132,
+    "nama": "Joko Mulyono, M.M",
+    "nidn": "0422046906",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 133,
+    "nama": "Junedi, S.E.,M.M",
+    "nidn": "0408027602",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 134,
+    "nama": "Karyono, M.M., M.Pd",
+    "nidn": "0419097102",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 135,
+    "nama": "Kuwat Riyanto, S.E.,M.M",
+    "nidn": "0417087905",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 136,
+    "nama": "Langgeng Sri Handayani, S.E.,M.M",
+    "nidn": "0407056902",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 137,
+    "nama": "Lilik Yusuf Indrajaya, S.E.,M.B.A",
+    "nidn": "0405037807",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 138,
+    "nama": "Lisa Kustina, S.E.,M.B.A",
+    "nidn": "0404128403",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 139,
+    "nama": "Maha Putra, S.Pd., M.Pd",
+    "nidn": "0430089301",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 140,
+    "nama": "Miftakul Huda, S.E.,M.M.",
+    "nidn": "0420088008",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 141,
+    "nama": "Mohammad Hatta Fahamsyah, S.Sy,M.Sc.E.",
+    "nidn": "0424078704",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 142,
+    "nama": "Muhadar Putih, S.E,M.M",
+    "nidn": "0406068007",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 143,
+    "nama": "Muhamad Bukhori, S.E.,M.M",
+    "nidn": "0410099102",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 144,
+    "nama": "Muhamad Ekhsan, S.Kom,M.M.",
+    "nidn": "0401128907",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 145,
+    "nama": "Muhamad Syahwildan, S.E.,M.M",
+    "nidn": "0425038902",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 146,
+    "nama": "Mukharom, S.E.,M.M",
+    "nidn": "0407097603",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 147,
+    "nama": "Nani Hartati, S.E., M.M",
+    "nidn": "0403127901",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 148,
+    "nama": "Nasrun Baldah, M.M,S.E.",
+    "nidn": "0403118304",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 149,
+    "nama": "Nataliana Bebasari, S.E.,M.M",
+    "nidn": "0424127704",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 150,
+    "nama": "Nining Yuningsih, S.Pd,M.M.",
+    "nidn": "0420038207",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 151,
+    "nama": "Noneng Novie, S.E.,M.M.",
+    "nidn": "0423058203",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 152,
+    "nama": "Novi Fitria Hermiati, M.M.,S.K.M.",
+    "nidn": "0405088105",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 153,
+    "nama": "Nur Hidayati, S.T,M.M",
+    "nidn": "0419068402",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 154,
+    "nama": "Nurul Ariffaeni Islami, S.Psi,M.M",
+    "nidn": "0401098704",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 155,
+    "nama": "Nyimas Noncik, ",
+    "nidn": "0308096403",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 156,
+    "nama": "Oom Tikaromah, S.E.,M.M",
+    "nidn": "0425068004",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 157,
+    "nama": "Parulian, S.P,M.M",
+    "nidn": "0422058404",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 158,
+    "nama": "Primaraga Sumantri Indra Wicaksana, S.E,Mm",
+    "nidn": "0417119003",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 159,
+    "nama": "Pujiharta, S.E.,M.M.",
+    "nidn": "0407126701",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 160,
+    "nama": "Purwanti, S.Pd,M.M",
+    "nidn": "0415077808",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 161,
+    "nama": "Purwanto, S.E.,M.M",
+    "nidn": "0405107606",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 162,
+    "nama": "Rahayu Sulistyowati, S.E.,M.M",
+    "nidn": "0409078503",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 163,
+    "nama": "Raniasari Bimanti Esthi, S.E., M.Si",
+    "nidn": "0415098804",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 164,
+    "nama": "Ratna Yudythia Andayani, S.Tp,M.M",
+    "nidn": "0420117704",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 165,
+    "nama": "Rensi Suryanti, S.T,M.M",
+    "nidn": "0424068902",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 166,
+    "nama": "Riski Eko Ardianto, S.E.,M.M",
+    "nidn": "0431079101",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 167,
+    "nama": "Rismawati, S.E.,M.M.",
+    "nidn": "0408107303",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 168,
+    "nama": "Rizqon Hoeroni, M.M,S.Fil",
+    "nidn": "0420058102",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 169,
+    "nama": "Rustianah, S.E., M.M.",
+    "nidn": "0412047309",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 170,
+    "nama": "Sarip Kosim, S.E., M.M.",
+    "nidn": "0412046504",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 171,
+    "nama": "Saur Panjaitan, S.E., M.M",
+    "nidn": "0431107904",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 172,
+    "nama": "Sesri Sellina, S.E.,M.M.",
+    "nidn": "0419088109",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 173,
+    "nama": "Sinta Sundari Heriyanti, S.H.,M.M.",
+    "nidn": "0406077608",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 174,
+    "nama": "Siska Wulandari, S.E.,M.M",
+    "nidn": "0423018302",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 175,
+    "nama": "Siti Salsiyah, S.E.,M.M.",
+    "nidn": "0408077302",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 176,
+    "nama": "Soni Suardi, S.E.,M.M",
+    "nidn": "0422067305",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 177,
+    "nama": "SRI WAHYUNINGSIH, S.E.,M.M.",
+    "nidn": "0428067704",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 178,
+    "nama": "Supartono, S.E.,M.Si",
+    "nidn": "0422066705",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 179,
+    "nama": "Suryadi, S.E.,M.Si",
+    "nidn": "0412097206",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 180,
+    "nama": "Suwandi, S.T,M.M.",
+    "nidn": "0411117802",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 181,
+    "nama": "Syahrul Alim, S.Tp,M.M.",
+    "nidn": "0423037003",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 182,
+    "nama": "Thoha Asaroni, S.E.,M.M",
+    "nidn": "0420067508",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 183,
+    "nama": "Tri Mulyani Kartini, S.E.,M.M.",
+    "nidn": "0421047703",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 184,
+    "nama": "Tri Wahyu Wirjawan, S.E.,M.M",
+    "nidn": "0404046906",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 185,
+    "nama": "Wachid Hasyim, S.E.,M.M",
+    "nidn": "0411118901",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 186,
+    "nama": "Wahyu Wulandari, Dra,M.M",
+    "nidn": "0403106402",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 187,
+    "nama": "Wening Ken Widodasih, S.H.,M.M.",
+    "nidn": "0413056903",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 188,
+    "nama": "Wiji Safitri, M.M.,S.Mb",
+    "nidn": "0409098708",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 189,
+    "nama": "Yohanes Herman Susilo, S.Kom,M.M",
+    "nidn": "0415088105",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 190,
+    "nama": "Yos Soejarminto, S.E.,M.M.",
+    "nidn": "0430067801",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 191,
+    "nama": "Yuan Badrianto, S.Psi,M.M., D.B.A",
+    "nidn": "0427018103",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 192,
+    "nama": "Yuki Dwi Darma, S.E.,M.M",
+    "nidn": "0408077704",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 193,
+    "nama": "Yunita Ramadhani Ratnaningsih Ds, S.E.,M.Sc.M.",
+    "nidn": "0406068402",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 194,
+    "nama": "Yuramanti, S.E.,M.S.M",
+    "nidn": "0401098003",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 195,
+    "nama": "Zulfa Zakiatul Hidayah, S.E., M.M",
+    "nidn": "0423119501",
+    "prodi": "MANAJEMEN"
+  },
+  {
+    "id": 196,
+    "nama": "Dr. Anna Wulandari, S.E.,M.M",
+    "nidn": "0313037903",
+    "prodi": "MM"
+  },
+  {
+    "id": 197,
+    "nama": "Dr. Billy Josef Anis, S.E.,M.M",
+    "nidn": "0428077502",
+    "prodi": "MM"
+  },
+  {
+    "id": 198,
+    "nama": "Dr. Muhammad Sapruwan, S.E.,M.Si",
+    "nidn": "0428096608",
+    "prodi": "MM"
+  },
+  {
+    "id": 199,
+    "nama": "Dr. Taufiq Rachman, S.E., S.H., M.M",
+    "nidn": "8964510021",
+    "prodi": "MM"
+  },
+  {
+    "id": 200,
+    "nama": "Prof. Dr. Retno Purwani Setyaningrum, S.E., M.M.",
+    "nidn": "0429116301",
+    "prodi": "MM"
+  },
+  {
+    "id": 201,
+    "nama": "Azi Matur Rahmi, S.Pd., M.Pd",
+    "nidn": "0411019501",
+    "prodi": "PGPAUD"
+  },
+  {
+    "id": 202,
+    "nama": "Dr. Miftah Wangsadanureja, S.Pd.I., M.Pd.I.",
+    "nidn": "0428098306",
+    "prodi": "PGPAUD"
+  },
+  {
+    "id": 203,
+    "nama": "Dwiyani Anggraeni, S.Pd., M.Pd.",
+    "nidn": "0428118004",
+    "prodi": "PGPAUD"
+  },
+  {
+    "id": 204,
+    "nama": "Ika Juhriati, S.Pd., M.Pd.",
+    "nidn": "0415029001",
+    "prodi": "PGPAUD"
+  },
+  {
+    "id": 205,
+    "nama": "Muchammad Arif Muchlisin, S.Pd.I., M.Pd.",
+    "nidn": "2120019401",
+    "prodi": "PGPAUD"
+  },
+  {
+    "id": 206,
+    "nama": "Yossi Srianita, S.Pd.,  M.Pd.",
+    "nidn": "0404047704",
+    "prodi": "PGPAUD"
+  },
+  {
+    "id": 207,
+    "nama": "Awalina Barokah, S.Pd,M.Pd",
+    "nidn": "0419019205",
+    "prodi": "PGSD"
+  },
+  {
+    "id": 208,
+    "nama": "Dr. Titin Sunaryati, S.Pd.I., M.Pd",
+    "nidn": "0406068008",
+    "prodi": "PGSD"
+  },
+  {
+    "id": 209,
+    "nama": "Fitriyani, S.Kom,M.Pd",
+    "nidn": "0407118101",
+    "prodi": "PGSD"
+  },
+  {
+    "id": 210,
+    "nama": "Ira Restu Kurnia, S.Pd,M.Pd",
+    "nidn": "0412109006",
+    "prodi": "PGSD"
+  },
+  {
+    "id": 211,
+    "nama": "Septian Mukhlis, S.Pd,M.Pd",
+    "nidn": "0002099302",
+    "prodi": "PGSD"
+  },
+  {
+    "id": 212,
+    "nama": "Ade Nurul Hidayat, S.Pd,M.T.",
+    "nidn": "0421039501",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 213,
+    "nama": "ADI FITRA, S.T,M.T",
+    "nidn": "0407108604",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 214,
+    "nama": "Adi Rusdi Widya, S.T,M.T",
+    "nidn": "0415096901",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 215,
+    "nama": "ANDANA DWI APRILIA RAKADIPUTRA, S.T,M.Sc.",
+    "nidn": "0424049601",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 216,
+    "nama": "Andriani, M.T,S.St",
+    "nidn": "0403049102",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 217,
+    "nama": "Arvita Emarilis Intani, S.T,M.T",
+    "nidn": "0416098503",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 218,
+    "nama": "AZHAR SYAHRIR",
+    "nidn": "8991940022",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 219,
+    "nama": "Dr. Ir. Supriyanto, M.P",
+    "nidn": "0401066605",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 220,
+    "nama": "Dr. Susan Kustiwan, S.Tp,M.M",
+    "nidn": "0415037306",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 221,
+    "nama": "Dr. Tri Ngudi Wiyatno, S.T,M.T",
+    "nidn": "0425086503",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 222,
+    "nama": "Dwi Indra Prasetya, S.T,M.T.",
+    "nidn": "0404057402",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 223,
+    "nama": "Dwi Irwati, S.T,M.T",
+    "nidn": "0409098707",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 224,
+    "nama": "Fibi Eko Putra, S.T., M.T.",
+    "nidn": "0421069204",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 225,
+    "nama": "Gigih Hapsak Pradipto, S.St,M.T.",
+    "nidn": "0401108605",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 226,
+    "nama": "GUSMAN SIMON, M.T",
+    "nidn": "0425088007",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 227,
+    "nama": "HASYRANI WINDYATRI, S.T., M.S.c",
+    "nidn": "0428049205",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 228,
+    "nama": "Heru Darmawan, S.Kom,M.T.",
+    "nidn": "0410078705",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 229,
+    "nama": "HIBARKAH KURNIA, S.ST.,M.T",
+    "nidn": "0403038004",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 230,
+    "nama": "Ikhsan Romli, M.Sc.,S.Si",
+    "nidn": "0413058603",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 231,
+    "nama": "NIDA AN KHOFIYAH, S.T,M.T.",
+    "nidn": "0420069602",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 232,
+    "nama": "Rudy Effendi Listyanto, S.T,M.T",
+    "nidn": "0401106702",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 233,
+    "nama": "Ruli Yanto, S.T,M.T",
+    "nidn": "0416068703",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 234,
+    "nama": "SITI RAHAYU, S.T,M.T. ",
+    "nidn": "0422028605",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 235,
+    "nama": "SUHENDRA, S.T,M.T",
+    "nidn": "0426118101",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 236,
+    "nama": "Supriyati, S.T,M.T.",
+    "nidn": "0419018101",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 237,
+    "nama": "SYARAH RIZKIA FERIATY, S.T., M.T",
+    "nidn": "0407069202",
+    "prodi": "TEKNIK INDUSTRI"
+  },
+  {
+    "id": 238,
+    "nama": "Abdul Halim Anshor, S.Kom,M.Kom",
+    "nidn": "0421117604",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 239,
+    "nama": "ACENG BADRUZZAMAN, S.Pd.I.,M.Ag",
+    "nidn": "0412068909",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 240,
+    "nama": "Agung Nugroho, S.Kom,M.Kom",
+    "nidn": "0415058205",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 241,
+    "nama": "Agus Suwarno, S.Kom,M.T",
+    "nidn": "0408058302",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 242,
+    "nama": "Ahmad Fauzi, S.Pd,M.Pd",
+    "nidn": "0416029302",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 243,
+    "nama": "Ahmad Turmudi Zy, S.Kom., M.Kom.",
+    "nidn": "0408087907",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 244,
+    "nama": "Akhmad Azizudin Amin, S.T,M.M",
+    "nidn": "0406047207",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 245,
+    "nama": "Al Idrus, S.T,M.M",
+    "nidn": "0405117508",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 246,
+    "nama": "ALFONSUS LIGUORI AGUNG WIDYO KUNCORO, S.Ds,M.Ds",
+    "nidn": "0416049402",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 247,
+    "nama": "Amali, S.T,M.Sc.",
+    "nidn": "0405097004",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 248,
+    "nama": "Andri Firmansyah, S.Kom,M.Kom",
+    "nidn": "0401127203",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 249,
+    "nama": "ANNISA MAULANA MAJID, S.Kom., M.Kom",
+    "nidn": "0420069601",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 250,
+    "nama": "Antika Zahrotil Kamalia, S.E,M.Kom",
+    "nidn": "0402029403",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 251,
+    "nama": "Ari Yuneldi, S.Pd.I., M.Si",
+    "nidn": "0412029204",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 252,
+    "nama": "Arief Susilo, S.Kom, M.Kom",
+    "nidn": "8903120021",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 253,
+    "nama": "Arif Siswandi, S.Kom,M.M",
+    "nidn": "0414077406",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 254,
+    "nama": "Arif Tri Widiyatmoko, S.T,M.Kom",
+    "nidn": "0403078707",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 255,
+    "nama": "ASEP ARWAN SULAEMAN, S.T,M.Kom",
+    "nidn": "0412018505",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 256,
+    "nama": "Asep Muhidin, S.Kom,M.Kom",
+    "nidn": "0403057601",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 257,
+    "nama": "Asep Suprianto, ",
+    "nidn": "0426097301",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 258,
+    "nama": "Aswan Supriyadi Sunge, S.E.,M.Kom",
+    "nidn": "0426018003",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 259,
+    "nama": "Bambang Hermanto, S.E.,M.Kom",
+    "nidn": "0426097708",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 260,
+    "nama": "Basuki Edi Priyo, S.Pd,M.Pd",
+    "nidn": "0421068205",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 261,
+    "nama": "Candra Naya, S.Kom,M.Kom",
+    "nidn": "0415107904",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 262,
+    "nama": "Dedi Afandi, S.T,M.M",
+    "nidn": "0427028302",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 263,
+    "nama": "Donny Maulana, S.Kom, M.M.S.I",
+    "nidn": "0408107502",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 264,
+    "nama": "Dr. Dendy K Pramudito, ST, MM",
+    "nidn": "0415117901",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 265,
+    "nama": "Dr. Ir. Ananto Tri Sasongko, M.Sc.",
+    "nidn": "0410056601",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 266,
+    "nama": "Dr. Sifa Fauziah, S.Pd,M.Pd",
+    "nidn": "0424089001",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 267,
+    "nama": "Edora, S.Pd,M.Pd",
+    "nidn": "0401099001",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 268,
+    "nama": "Edri Fauzan, S.Si,M.M",
+    "nidn": "0429118201",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 269,
+    "nama": "Edy Widodo,S.Kom,M.Kom",
+    "nidn": "0428126702",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 270,
+    "nama": "Eko Budiarto, S.Kom,M.M",
+    "nidn": "0414107803",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 271,
+    "nama": "Elkin Rilvani, S.Kom,M.M",
+    "nidn": "0426078401",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 272,
+    "nama": "Endah Yaodah Kodratillah, S.Kom,M.M",
+    "nidn": "0412048901",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 273,
+    "nama": "Ermanto, S.Pd., M.Kom",
+    "nidn": "0410098108",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 274,
+    "nama": "Gatot Tri Pranoto, S.Kom,M.Kom",
+    "nidn": "0416068103",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 275,
+    "nama": "HEMDANI RAHENDRA HERLIANTO,S.Kom,M.T.I",
+    "nidn": "0405069302",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 276,
+    "nama": "Iman Tri Wahyudi, S.T,M.T",
+    "nidn": "0403067407",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 277,
+    "nama": "Ir. Nanang Tedi Kurniadi, M.T",
+    "nidn": "0427075905",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 278,
+    "nama": "Irfan Afriantoro, S.Kom,M.M",
+    "nidn": "0430048704",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 279,
+    "nama": "ISARIANTO, S.Kom,M.Kom",
+    "nidn": "0408029105",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 280,
+    "nama": "Ismasari Nawangsih, S.Kom,M.Kom",
+    "nidn": "0413088005",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 281,
+    "nama": "Karsito, S.Kom,M.Kom",
+    "nidn": "0410127802",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 282,
+    "nama": "M. Makmun Effendi, S.Kom,M.Kom",
+    "nidn": "0430087804",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 283,
+    "nama": "M. Syaibani Anwar, S.Si,M.M",
+    "nidn": "0405106904",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 284,
+    "nama": "Mas Abdillah, S.Kom",
+    "nidn": "0403117703",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 285,
+    "nama": "Muhamad Fatchan, S.Kom,M.Kom",
+    "nidn": "0403107605",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 286,
+    "nama": "Muhammad Najamuddin Dwi Miharja, S.Kom,M.Kom",
+    "nidn": "0425098802",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 287,
+    "nama": "Muhtajuddin Danny, S.Kom,M.Kom,Drs",
+    "nidn": "0401056703",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 288,
+    "nama": "Neljon Imran, ",
+    "nidn": "0410106608",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 289,
+    "nama": "Nurhadi Surojudin, S.Kom,M.Kom",
+    "nidn": "0402118105",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 290,
+    "nama": "Rani Trianingsih, S.Sos,M.M",
+    "nidn": "0419128302",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 291,
+    "nama": "Ratno Setiyawan, S.T",
+    "nidn": "0427028101",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 292,
+    "nama": "Sanudin, S.Kom,M.Kom",
+    "nidn": "0412078303",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 293,
+    "nama": "SOPHIAN ANDHIKA SARDI, S.Kom,M.Kom",
+    "nidn": "0430058305",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 294,
+    "nama": "Sudrajat, M.M,Ak",
+    "nidn": "0415066707",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 295,
+    "nama": "Sufajar Butsianto, S.Kom,M.Kom",
+    "nidn": "0424068106",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 296,
+    "nama": "Sugeng Budi Rahardjo, S.T,M.M",
+    "nidn": "0417116506",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 297,
+    "nama": "Suherman, S.Kom,M.Kom",
+    "nidn": "0308086805",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 298,
+    "nama": "Suprapto, S.T., M.Kom",
+    "nidn": "0414078104",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 299,
+    "nama": "Suratman, S.Kom,M.Kom",
+    "nidn": "0406037704",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 300,
+    "nama": "Ucok Darmanto Soer, M.Kom,Ir",
+    "nidn": "0429106003",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 301,
+    "nama": "Wahyu Hadikristanto, S.Kom,M.Kom",
+    "nidn": "0415088207",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 302,
+    "nama": "Wiena Novianti, S.Pd,M.Pd",
+    "nidn": "0408118801",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 303,
+    "nama": "Wiyanto, S.Kom,M.Kom",
+    "nidn": "0417118103",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 304,
+    "nama": "Yoeliar Soetrisno, Ir,M.M",
+    "nidn": "0418076101",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 305,
+    "nama": "ZAENUR ROZIKIN, S.Kom,M.Kom",
+    "nidn": "0429129501",
+    "prodi": "TEKNIK INFORMATIKA"
+  },
+  {
+    "id": 306,
+    "nama": "Agus Andriyansyah, S.T,S.T,M.M.",
+    "nidn": "0417086901",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 307,
+    "nama": "Agus Riyadi, M.Sc,S.T",
+    "nidn": "0420087907",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 308,
+    "nama": "Aris Dwi Cahyanto, M.Si,S.T",
+    "nidn": "0422056501",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 309,
+    "nama": "Dhonny Suwazan, S.Si,M.T",
+    "nidn": "0411079201",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 310,
+    "nama": "Dodit Ardiatma, S.T,M.Sc.",
+    "nidn": "0403029201",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 311,
+    "nama": "Emir Sadikin, S.T,M.M.",
+    "nidn": "0426076702",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 312,
+    "nama": "Erwika Dhora Jati, S.Si,M.Sc.",
+    "nidn": "0414069303",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 313,
+    "nama": "Ir. Martin Darma Setiawan, M.M.",
+    "nidn": "0423036001",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 314,
+    "nama": "Isyulianto, S.T,M.T",
+    "nidn": "0421076906",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 315,
+    "nama": "Neny Mulyani, S.Pd,M.M.",
+    "nidn": "0406017305",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 316,
+    "nama": "Nisa Nurhidayanti, S.Pd,M.T",
+    "nidn": "0420028902",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 317,
+    "nama": "Noviaji Joko Priono, S.K.M.,M.Kn.,",
+    "nidn": "0414119203",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 318,
+    "nama": "Nur Ilman Ilyas, S.T,M.M",
+    "nidn": "0405119102",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 319,
+    "nama": "Putri Anggun Sari, S.Pt,M.Si",
+    "nidn": "0424088403",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 320,
+    "nama": "Tyas Ismi Trialfhianty, S.Pi,M.Sc.",
+    "nidn": "0412029103",
+    "prodi": "TEKNIK LINGKUNGAN"
+  },
+  {
+    "id": 321,
+    "nama": "ALFANDIAS SEYSNA PUTRA, S.T,M.T.",
+    "nidn": "0426129402",
+    "prodi": "TEKNIK SIPIL"
+  },
+  {
+    "id": 322,
+    "nama": "DEA FAUZIAH LARASATI, S.T.,M.T",
+    "nidn": "0425089701",
+    "prodi": "TEKNIK SIPIL"
+  },
+  {
+    "id": 323,
+    "nama": "HEROL,S.T.,MT",
+    "nidn": "0424059303",
+    "prodi": "TEKNIK SIPIL"
+  },
+  {
+    "id": 324,
+    "nama": "Isria Miharti Mahaerni Putri, S.St,M.T.",
+    "nidn": "0414019401",
+    "prodi": "TEKNIK SIPIL"
+  },
+  {
+    "id": 325,
+    "nama": "Muhamad Lukman Subangi, S.Pd,M.T",
+    "nidn": "0419128204",
+    "prodi": "TEKNIK SIPIL"
+  },
+  {
+    "id": 326,
+    "nama": "Rahman Satrio Prasojo, S.T,S.T,M.T,M.T.",
+    "nidn": "0306058601",
+    "prodi": "TEKNIK SIPIL"
+  },
+  {
+    "id": 327,
+    "nama": "Raymond Jacson Georgen, S.T,M.T",
+    "nidn": "0407088107",
+    "prodi": "TEKNIK SIPIL"
+  },
+  {
+    "id": 328,
+    "nama": "ANDINI PUTRI RIANDANI, M.Si,S.Gz",
+    "nidn": "0423099106",
+    "prodi": "TEKNOLOGI HASIL PERTANIAN"
+  },
+  {
+    "id": 329,
+    "nama": "ANITA SURI, S.TP,M.P",
+    "nidn": "0422099601",
+    "prodi": "TEKNOLOGI HASIL PERTANIAN"
+  },
+  {
+    "id": 330,
+    "nama": "Putri Nabila Adinda Adriansyah, S.T.P.,M.Si",
+    "nidn": "0415119501",
+    "prodi": "TEKNOLOGI HASIL PERTANIAN"
+  },
+  {
+    "id": 331,
+    "nama": "TANTRY FEBRINASARI",
+    "nidn": "0403029403",
+    "prodi": "TEKNOLOGI HASIL PERTANIAN"
+  },
+  {
+    "id": 332,
+    "nama": "YUSUF IRFAN, M.T,S.T.P.",
+    "nidn": "0428099401",
+    "prodi": "TEKNOLOGI HASIL PERTANIAN"
+  }
+]
